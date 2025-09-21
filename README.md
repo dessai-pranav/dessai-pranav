@@ -1,4 +1,5 @@
-# Hi 👋, I'm **Pranav Gauns Dessai**
+
+<h1> Hi 👋, I'm Pranav Gauns Dessai</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Computer+Engineering+Student;Linux+Enthusiast;Always+learning+new+things;Love+to+code+and+explore!" alt="Typing SVG" />
@@ -10,9 +11,8 @@
 - 💻 Passionate about **Full Stack Web Development**, **Node.js**, and **React**
 - 🐧 **Linux enthusiast** - Love working with **Ubuntu**, **Arch**, and **Fedora**
 - 🚀 Love building **cool projects** and exploring **new technologies**
-- 🌱 Currently learning **DevOps**, **Docker**, and **Kubernetes**
-- 🔧 Enjoy **system administration** and **command line tools**
-- ⚡ Fun fact: I can spend hours customizing my **Linux desktop** and **terminal**
+-
+
 
 ---
 
@@ -33,15 +33,15 @@
 
 <div align="center">
 
-### 🐧 Operating Systems & Tools
+## 🐧 Operating Systems & Tools
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>
-<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
-<img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white"/>
+<img src="https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnome-terminal&logoColor=white"/>
 
 ### 🌐 Frontend Technologies
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -61,12 +61,10 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 ### 💾 Programming Languages
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
 
@@ -80,13 +78,13 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 GitHub Contribution Snake
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranavgaunsdessai/pranavgaunsdessai/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranavgaunsdessai/pranavgaunsdessai/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pranavgaunsdessai/pranavgaunsdessai/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dessai-pranav/dessai-pranav/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dessai-pranav/dessai-pranav/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dessai-pranav/dessai-pranav/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -103,18 +101,8 @@
 ## 📊 Detailed Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dessai-pranav&theme=radical" width="100%"/>
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dessai-pranav&theme=radical" width="48%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dessai-pranav&theme=radical" width="48%"/>
-</div>
-
-## 📈 Additional GitHub Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dessai-pranav&theme=radical&hide_border=true&bg_color=0d1117" />
 </div>
 
 <div align="center">
