@@ -1,5 +1,13 @@
 # 💫 About Me:
-i am third year computerengineering studenet at don bosco college of engineering fatorda goa learning software developmen and full stack using reaact tailwinf postgress nodejs express ad eveyrthing<br>
+
+Hey! I'm Pranav, a third-year Computer Engineering student at 
+Don Bosco College of Engineering, Goa 🇮🇳
+
+🚀 Passionate about building full-stack web apps  
+⚙️ Currently deep-diving into Node.js & backend development  
+🌱 Always learning — React, Tailwind, PostgreSQL, Express and more  
+🎯 Goal: Ship real products and grow as a developer  
+💬 Always up for collaborating on interesting projects!<br>
 
 
 ## 🌐 Socials:
